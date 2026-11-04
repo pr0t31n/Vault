@@ -1,5 +1,8 @@
 # Vault
 
+> [!CAUTION]
+> **Under Development — Untested.** This tool has not been validated in production engagements. Features may be incomplete, unstable, or produce unreliable results. Do not rely on its output for deliverables without independent verification.
+
 Active Directory / SMB credential test orchestrator built on [impacket](https://github.com/fortra/impacket).
 
 Vault is an **action-item-driven** tool — it picks up where Scattershot3's recon and Dredge's passive analysis leave off, running targeted credential-authenticated AD exploitation validation.
