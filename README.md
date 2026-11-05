@@ -213,7 +213,7 @@ Vault is managed by Crucible as an action-item-driven tool:
 2. Crucible's action engine creates a Vault action item (`ad_discovered` category)
 3. Operator configures Vault credentials in project Settings
 4. Vault runs in managed mode (`VAULT_MANAGED=1`)
-5. Logs/status/findings stream to Crucible via `__VANTAGE_*__` tokens
+5. Logs/status/findings stream to Crucible via `__CRUCIBLE_*__` tokens
 
 Vault does **not** appear in the Crucible project wizard — it exists in the Settings tab only.
 
