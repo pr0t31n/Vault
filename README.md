@@ -7,6 +7,9 @@ Active Directory / SMB credential test orchestrator built on [impacket](https://
 
 Vault is an **action-item-driven** tool — it picks up where Scattershot3's recon and Dredge's passive analysis leave off, running targeted credential-authenticated AD exploitation validation.
 
+
+> **[View full documentation on the Codex Wiki](https://wiki.pr0t31n.com/tools/vault)** — detailed features, CLI reference, findings catalogue, and integration guides.
+
 ## Features
 
 ### Credential Modules
